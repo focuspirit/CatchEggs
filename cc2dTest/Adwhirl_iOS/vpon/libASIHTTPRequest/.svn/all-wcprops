@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASINetworkQueue.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/Reachability.h
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIFormDataRequest.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/Reachability.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIWebPageRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIWebPageRequest.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIWebPageRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIWebPageRequest.m
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn_adon/!svn/ver/2211/trunk/iphone-sdk3/libASIHTTPRequest/ASIDataCompressor.m
+END
